@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 VOIDPACKET
 
-<!--
-**VOIDPACKET-VP/VOIDPACKET-VP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Security Researcher | Bug Bounty Hunter**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Quick Facts
+- **Top 10** on BugForge & 247CTF  
+- **7 private programs** on Intigriti
+- **QA Team** at BugForge
+- **Pursuing**: TCM Practical Web Pentest Associate
+
+## 🔭 Currently Working On
+VOIDLOCK - Discipline-based fitness app with Strava API & penalty system
+
+## 🌱 Currently Learning  
+Full-stack development (focusing on backend: Node.js, APIs, databases)
+
+## 💬 Ask Me About
+Web hacking, SSTI, JWT vulnerabilities, CTF strategies
+
+## 👯 Looking to Collaborate On
+Security tools, bug bounty methodologies, educational content
+
+## 🤔 Looking For Help With
+Payment system implementation, timezone verification, app architecture
+
+---
+
+*"Understanding how it's built to break it better."*
