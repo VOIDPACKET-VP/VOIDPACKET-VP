@@ -16,9 +16,6 @@ VOIDLOCK - Discipline-based fitness app with Strava API & penalty system
 ## 🌱 Currently Learning  
 Full-stack development (focusing on backend: Node.js, APIs, databases)
 
-## 💬 Ask Me About
-Web hacking, SSTI, JWT vulnerabilities, CTF strategies
-
 ## 👯 Looking to Collaborate On
 Security tools, bug bounty methodologies, educational content
 
