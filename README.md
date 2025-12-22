@@ -6,7 +6,7 @@
 
 ## 🚀 Quick Facts
 - **Top 10** on BugForge & 247CTF  
-- **10 private programs** on Intigriti
+- **20+ private programs** on Intigriti
 - **QA Team** at BugForge
 - **Pursuing**: TCM Practical Web Pentest Associate
 
