@@ -7,8 +7,7 @@
 ## 🚀 Quick Facts
 - **Top 10** on BugForge & 247CTF  
 - **20+ private programs** on Intigriti
-- **QA Team** at BugForge
-- **Pursuing**: TCM Practical Web Pentest Associate
+- **QA Team** at BugForge (volunteer)
 
 ## 🔭 Currently Working On
 VOIDLOCK - Discipline-based fitness app with Strava API & penalty system
