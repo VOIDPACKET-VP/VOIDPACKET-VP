@@ -1,26 +1,42 @@
-# 👋 VOIDPACKET
-
-**Security Researcher | Web Penetration tester | Bug Bounty Hunter**
-
----
-
-## 🚀 Quick Facts
-- **Top 10** on BugForge & 247CTF  
-- **20+ private programs** on Intigriti
-- **QA Team** at BugForge (volunteer)
-
-## 🔭 Currently Working On
-VOIDLOCK - Discipline-based fitness app with Strava API & penalty system
-
-## 🌱 Currently Learning  
-Full-stack development (focusing on backend: Node.js, APIs, databases)
-
-## 👯 Looking to Collaborate On
-Security tools, bug bounty methodologies, educational content
-
-## 🤔 Looking For Help With
-Payment system implementation, timezone verification, app architecture
+👋 VOIDPACKET
+***Reverse Engineering | Blue Team Specialist | Security Operations***
 
 ---
 
-*"Understanding how it's built to break it better."*
+🚀 Quick Facts
+Top 10 on BugForge & 247CTF
+
+20+ private programs on Intigriti
+
+QA Team at BugForge (volunteer)
+
+🔭 Currently Building
+Blue Team Tooling Portfolio - Log parsers, file integrity monitors, and reverse engineering challenges to strengthen defensive security skills.
+
+🌱 Currently Learning
+SOC operations & detection engineering
+
+Reverse engineering (x64 Assembly, C, malware analysis)
+
+Low-level systems programming for security tool development
+
+🛡️ Core Focus Areas
+Detection Engineering: Building custom security monitoring tools
+
+Reverse Engineering: Creating educational challenges and analysis tools
+
+Security Operations: Applying QA/testing mindset to defensive systems
+
+👯 Looking to Collaborate On
+Security tools with defensive applications, educational RE challenges, blue team automation projects
+
+🤔 Looking For Help With
+Advanced Windows/Linux system internals
+
+Performance optimization for security monitoring tools
+
+Malware analysis techniques
+
+---
+
+"Building defensive tools by understanding offensive techniques."
