@@ -5,8 +5,8 @@
 ---
 
 🚀 Quick Facts :
-**20+ private programs on Intigriti**
-**QA Team at BugForge (volunteer)**
+- **20+ private programs on Intigriti**
+- **QA Team at BugForge (volunteer)**
 
 🔭 Currently Building :
 - Blue Team Tooling Portfolio - Log parsers, file integrity monitors, and reverse engineering challenges to strengthen defensive security skills.
