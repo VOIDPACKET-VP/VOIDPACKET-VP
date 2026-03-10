@@ -1,5 +1,6 @@
 VOIDPACKET
-Making games, websites, and tools with a security mindset.
+
+- Making games, websites, and tools with a security mindset.
 
 ---
 
@@ -16,9 +17,7 @@ Making games, websites, and tools with a security mindset.
 - 2D Game: Just applying what I know (and plenty of Googling) to make a fun 2D game.
 
 ### **Learning Journey**
-Mastering C++ (Manual memory management and all the hard stuff).
-Learning how to build physics into games.
-Figuring out how to make C++ and Web Dev work together.
+C++, Game Dev, Simulating Physics, Web apps ... 
 
 ### **VOIDPACKET's Challenge: Spot the Bug!**
 I can't turn off my QA brain. Can you find the memory mistake in this C++ snippet?
@@ -38,4 +37,7 @@ int main() {
 
 ### **Let’s Chat About**
 Game engines, DaVinci Resolve tools, or how to keep web apps secure without making them boring.
+
+---
+
 You can find my Socials in my Bio
