@@ -4,21 +4,21 @@ Building things to understand them. Breaking things to know them better.
 ---
 
 ### Who I Am
-Engineering student from Azilal, Morocco — High Atlas mountains.
+Engineering student from Azilal, Morocco, High Atlas mountains.
 I code more outside college than inside it.
 PWPA certified. Realized I hate web hacking. 
 Realized I love programming. No regrets.
 
 ### What I'm Actually Building
-- Portal — an indie game discovery platform (React + Supabase)
-- Unveil — an AI guide to understanding Islam
+- Portal —> an indie game discovery platform (React + Supabase)
+- Unveil —> an AI guide to understanding Islam
 - A shell from scratch in C++ (because why not)
 - The Voidpacket ecosystem — tools, games, and platforms
 
 ### What I'm Learning
-C++ (Cherno) → Reverse Engineering → Game Hacking → Malware Dev
-Web Dev (React, Node.js, Supabase) → Ship real products
-Networking (CCNA) → Understand what I'm attacking
+C++ (Cherno) —> Reverse Engineering —> Game Hacking —> Malware Dev
+Web Dev (React, Node.js, Supabase) —> Ship real products
+Networking (CCNA) —> Understand what I'm attacking
 
 ### Security
 - TCM PWPA certified
