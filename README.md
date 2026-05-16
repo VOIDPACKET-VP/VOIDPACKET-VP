@@ -1,43 +1,37 @@
 VOIDPACKET
-
-- Making games, websites, and tools with a security mindset.
-
----
-
-### **Quick Facts**
-- PWPA Certified (TCM's Practical Web Pentest Associate).
-- 30+ private program invites on Intigriti & Ex-QA at BugForge.
-- I used to be a video editor and animator.
-- Hobbies: Chess, Cycling and Rocket League.
-
-### **What I’m Working On**
-- The VOID Engine: Building my own game engine using C++.
-- The VOID Plugin: A physics plugin for DaVinci Resolve so editors can use gravity and collisions.
-- Web Arcade: A website full of games made with C++ and Raylib that run right in your browser.
-- 2D Game: Just applying what I know (and plenty of Googling) to make a fun 2D game.
-
-### **Learning Journey**
-C++, Game Dev, Simulating Physics, Web apps ... 
-
-### **VOIDPACKET's Challenge: Spot the Bug!**
-I can't turn off my QA brain. Can you find the memory mistake in this C++ snippet?
-```
-#include <iostream>
-int* getPlayerScore() {
-    int score = 100; 
-    return &score; // This is a trap! 
-}
-int main() {
-    int* myScore = getPlayerScore();
-    std::cout << "Player Score: " << *myScore << std::endl;
-    return 0;
-}
-```
-(Hint: What happens to 'score' when the function finishes?)
-
-### **Let’s Chat About**
-Game engines, DaVinci Resolve tools, or how to keep web apps secure without making them boring.
+Building things to understand them. Breaking things to know them better.
 
 ---
 
-You can find my Socials in my Bio
+### Who I Am
+Engineering student from Azilal, Morocco — High Atlas mountains.
+I code more outside college than inside it.
+PWPA certified. Realized I hate web hacking. 
+Realized I love programming. No regrets.
+
+### What I'm Actually Building
+- Portal — an indie game discovery platform (React + Supabase)
+- Unveil — an AI guide to understanding Islam
+- A shell from scratch in C++ (because why not)
+- The Voidpacket ecosystem — tools, games, and platforms
+
+### What I'm Learning
+C++ (Cherno) → Reverse Engineering → Game Hacking → Malware Dev
+Web Dev (React, Node.js, Supabase) → Ship real products
+Networking (CCNA) → Understand what I'm attacking
+
+### Security
+- TCM PWPA certified
+- CTF writeups across picoCTF, 247CTF, BugForge, Intigriti
+- BugForge Legends : been there since beta
+- Building toward: RE, game hacking, AI security
+
+### The Voidpacket Philosophy
+Understand it → Build it → Break it → Secure it
+
+### Let's Talk About
+Game hacking, low-level C++, indie games,
+Islamic tech, or why your network design is a single point of failure.
+
+---
+Socials in bio. Notes in Obsidian. Sleep schedule nonexistent.
