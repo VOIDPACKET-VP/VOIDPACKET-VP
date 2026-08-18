@@ -1,37 +1,38 @@
-VOIDPACKET
-Building things to understand them. Breaking things to know them better.
+# ⵣ VOIDPACKET 
+> Building things to understand them. Breaking things to secure them.
 
 ---
 
-### Who I Am
-Engineering student from Azilal, Morocco, High Atlas mountains.
-I code more outside college than inside it.
-PWPA certified. Realized I hate web hacking. 
-Realized I love programming. No regrets.
+### 📌 Who I Am
+- **Location:** High Atlas Mountains, Azilal, Morocco 🏔️
+- **Systems Engineering Student:** I build more code outside of college than inside it.
+- **The Shift:** TCM PWPA certified. Realized I hate web forms; realized I love low-level architecture and memory manipulation. No regrets.
 
-### What I'm Actually Building
-- Portal —> an indie game discovery platform (React + Supabase)
-- Unveil —> an AI guide to understanding Islam
-- A shell from scratch in C++ (because why not)
-- The Voidpacket ecosystem — tools, games, and platforms
+### 🛠️ What I'm Actually Building
+- **voidShell:** An independent, cross-platform terminal shell built from scratch in C++.
+- **Portal:** An indie game discovery platform engineered with React and Supabase. (STOPPED)
+- **Unveil:** An interactive platform built to streamline the understanding of Islam. (STOPPED)
+- **The Voidpacket Ecosystem:** A unified framework of custom security tools, logic games, and systems software. (STOPPED)
 
-### What I'm Learning
-C++ (Cherno) —> Reverse Engineering —> Game Hacking —> Malware Dev
-Web Dev (React, Node.js, Supabase) —> Ship real products
-Networking (CCNA) —> Understand what I'm attacking
+### 📚 What I'm Mastering This Summer
+- **Low-Level Security:** x86-64 Assembly ➔ Windows Internals ➔ Reverse Engineering ➔ Malware Dev.
+- **Infrastructure Hacking:** Progressing aggressively through the **HTB Certified Penetration Testing Specialist (CPTS)** track.
+- **Artificial Intelligence:** Linear Algebra, Data Analytics, and Applied Neural Networks via Kaggle and PyTorch.
 
-### Security
-- TCM PWPA certified
-- CTF writeups across picoCTF, 247CTF, BugForge, Intigriti
-- BugForge Legends : been there since beta
-- Building toward: RE, game hacking, AI security
+### 🛡️ Cyber Security Foundations
+- **Certifications:** TCM PWPA Certified | Targeting **HTB CPTS** 🚀
+- **Platforms:** Active writeups across picoCTF, 247CTF, BugForge, and HTB Labs.
+- **Community:** BugForge Legends member since the closed beta phase.
 
-### The Voidpacket Philosophy
-Understand it → Build it → Break it → Secure it
+### 🧠 The Voidpacket Philosophy
+```text
+Understand it ──► Build it ──► Break it ──► Secure it
+```
 
-### Let's Talk About
-Game hacking, low-level C++, indie games,
-Islamic tech, or why your network design is a single point of failure.
+### 💬 Let's Talk About
+- Low-level memory manipulation, game memory structures, and kernel-level anti-cheat design.
+- Practical Machine Learning pipelines, vector math, and data science architecture.
+- Islamic tech products, indie game engines, or why your network design is a single point of failure.
 
 ---
-Socials in bio. Notes in Obsidian. Sleep schedule nonexistent.
+*Notes compiled inside Obsidian. Code compiled inside MSVC/WSL2. Sleep schedule highly optimized via Fajr prayers.*
