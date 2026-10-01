@@ -1,6 +1,5 @@
 # Elqably
-
-Systems engineering student focused on low-level security — assembly, reverse engineering, and penetration testing.
+Systems engineering student focused on low-level security: assembly, reverse engineering, and penetration testing.
 
 I'm currently working through HTB's CPTS path, alongside learning x86-64 assembly, Game Dev/Modding/Hacking, Windows internals, and Reverse Engineering.
 
